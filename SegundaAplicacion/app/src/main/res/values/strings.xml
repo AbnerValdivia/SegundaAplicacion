@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplicacion2</string>
+    <string name="pick_date">PickerDate</string>
+    <string name="ancho_EditText">500dp</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción</string>
+    <string name="fecha">Fecha</string>
+    <string name="botonSiguiente">Siguiente</string>
+    <string name="ConfirmarDatos">Confirmar Datos</string>
+    <string name="fechaNac">Fecha de Nacimiento:</string>
+    <string name="telCD">Teléfono:</string>
+    <string name="descCD">Descripción:</string>
+    <string name="emailCD">Email:</string>
+    <string name="butEditar">Editar Datos</string>
+</resources>
